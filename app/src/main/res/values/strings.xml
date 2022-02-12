@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Disaster Management</string>
+    <string name="MapView">Map View</string>
+    <string name="Login">Login to app</string>
+    <string name="OptionsActivity">Various Options</string>
+    <string name="guideline">guideline button</string>
+    <string name="markLocation">mark location button</string>
+    <string name="callHelpline">call helpline button</string>
+    <string name="listStranded">list stranded  button</string>
+    <string name="tsunami">tsunami button</string>
+    <string name="earthquake">earthquake button</string>
+    <string name="volcano">volcano button</string>
+    <string name="landslide">landslide button</string>
+    <string name="textviewEarthquake">Earthquake TextView</string>
+    <string name="textviewTsuanmi">Tsuanmi TextView</string>
+    <string name="textviewVolcano">Volcano TextView</string>
+    <string name="textviewLandSlide">LandSlide TextView</string>
+    <string name="textViewCall">Enter the number</string>
+    <string name="callBtn">call</string>
+</resources>
